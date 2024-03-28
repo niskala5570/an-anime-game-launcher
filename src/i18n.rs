@@ -29,7 +29,7 @@ pub const SUPPORTED_LANGUAGES: &[LanguageIdentifier] = &[
     langid!("nl-nl"),
     langid!("uk-ua"),
     langid!("th-th"),
-    langid!("ms-latn-my"),
+    langid!("ms-my"),
     langid!("ms-arab-my")
 ];
 
